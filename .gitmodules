@@ -1,3 +1,6 @@
 [submodule "ChaochihUtils"]
 	path = ChaochihUtils
 	url = https://github.com/liux1299/Utilities.git
+[submodule "LiUtils"]
+	path = LiUtils
+	url = https://github.com/lilei1/Utilites.git
