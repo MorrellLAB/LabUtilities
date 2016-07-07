@@ -1,9 +1,9 @@
 [submodule "ChaochihUtils"]
-	path = ChaochihUtils
+	path = Chaochih_Utils
 	url = https://github.com/liux1299/Utilities.git
 [submodule "LiUtils"]
-	path = LiUtils
+	path = Li_Utils
 	url = https://github.com/lilei1/Utilites.git
 [submodule "TomUtils"]
-	path = TomUtils
+	path = Tom_Utils
 	url = https://github.com/TomJKono/Misc_Utils.git
