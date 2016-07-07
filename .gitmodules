@@ -4,3 +4,6 @@
 [submodule "LiUtils"]
 	path = LiUtils
 	url = https://github.com/lilei1/Utilites.git
+[submodule "TomUtils"]
+	path = TomUtils
+	url = https://github.com/TomJKono/Misc_Utils.git
