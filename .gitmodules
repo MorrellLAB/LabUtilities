@@ -1,0 +1,3 @@
+[submodule "ChaochihUtils"]
+	path = ChaochihUtils
+	url = https://github.com/liux1299/Utilities.git
