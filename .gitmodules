@@ -7,3 +7,6 @@
 [submodule "TomUtils"]
 	path = Tom_Utils
 	url = https://github.com/TomJKono/Misc_Utils.git
+[submodule "Paul_Utils"]
+	path = Paul_Utils
+	url = https://github.com/mojaveazure/Utilities.git
